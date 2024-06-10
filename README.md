@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 10 Object-oriented Programming: SVG Logo Maker
 
 ## Your Task
@@ -150,3 +151,6 @@ You are required to submit the following for review:
 
 ---
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+=======
+# SVG-logo-Generator
+>>>>>>> b3d5c466a06751616c933de0618ca4c00959cad5
